@@ -1,3 +1,7 @@
+"""
+Código elaborado pelo grupo de Computação Biomédica da Universidade Federal de Pernambuco em 2024.
+"""
+
 from scipy import signal
 from scipy.stats import kurtosis
 import numpy as np
