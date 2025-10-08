@@ -1,3 +1,7 @@
+"""
+Código feito pelo grupo de pesquisa em computação biomédica em 2024
+"""
+
 # importando as bibliotecas para excutar a função
 import numpy as np
 import CalcAtributos
